@@ -1,6 +1,6 @@
 # Hey, I'm Kushagra 👋
 
-🎓 BTech CSE @ NIET Greater Noida (2025-29)
+🎓 BTech CSE (2026-30)
 💻 Learning C++ & DSA from scratch
 🎯 Goal: Product company placement @ 15+ LPA
 🗺️ Currently: Apna College C++ → Striver's A2Z DSA
